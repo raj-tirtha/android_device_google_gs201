@@ -430,7 +430,7 @@ PRODUCT_COPY_FILES += \
 endif
 
 # Touch
-include hardware/google/pixel/touch/device.mk
+# include hardware/google/pixel/touch/device.mk
 
 # VINTF
 DEVICE_MANIFEST_FILE += \
