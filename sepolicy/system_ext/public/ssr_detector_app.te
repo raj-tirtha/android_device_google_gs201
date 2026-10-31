@@ -1,3 +1,2 @@
 type ssr_detector_app, coredomain, domain;
 
-app_domain(ssr_detector_app)

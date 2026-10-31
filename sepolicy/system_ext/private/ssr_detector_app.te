@@ -1,3 +1,5 @@
+app_domain(ssr_detector_app)
+
 set_prop(ssr_detector_app, system_ssrdump_prop)
 
 allow ssr_detector_app app_api_service:service_manager find;
